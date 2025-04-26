@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class SC_FPSController : MonoBehaviour
 {
+    public static bool allowCursorLock = true;
     public float walkingSpeed = 7.5f;
     public float runningSpeed = 11.5f;
     public float jumpSpeed = 8.0f;
@@ -26,8 +27,14 @@ public class SC_FPSController : MonoBehaviour
         characterController = GetComponent<CharacterController>();
 
         // Lock cursor
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
+        //Cursor.lockState = CursorLockMode.Locked;
+        //Cursor.visible = false;
+
+        if (allowCursorLock)
+        {
+            Cursor.lockState = CursorLockMode.Locked;
+            Cursor.visible = false;
+        }
     }
 
     void Update()

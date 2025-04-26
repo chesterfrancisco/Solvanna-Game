@@ -54,7 +54,7 @@ public class MainMenuController : MonoBehaviour
 
     private void OnNewGameClicked()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("WinterLevel");
     }
 
     private void OnContinueClicked()

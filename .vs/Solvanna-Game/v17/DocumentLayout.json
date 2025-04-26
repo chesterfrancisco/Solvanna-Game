@@ -3,44 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|c:\\users\\63966\\documents\\2024 documents\\unity projects\\solvanna-game\\assets\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|c:\\users\\63966\\documents\\2024 documents\\unity projects\\solvanna-game\\assets\\scripts\\playerhealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|c:\\users\\63966\\documents\\2024 documents\\unity projects\\solvanna-game\\assets\\scripts\\pausescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|c:\\users\\63966\\documents\\2024 documents\\unity projects\\solvanna-game\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\victoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\victoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|c:\\users\\63966\\documents\\2024 documents\\unity projects\\solvanna-game\\assets\\scripts\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\levelexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\ui\\maingame.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\maingame.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\TMP\\TMP_PackageResourceImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\TMP\\TMP_PackageResourceImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\BouncePad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BouncePad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\start-game.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\start-game.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\monsappear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\monsappear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\sc_fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\sc_fpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\UI\\StartScreen.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UI\\StartScreen.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\pickupgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\gunswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\assets\\scripts\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\CheckpointController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECCEC42-8621-002C-9FB4-951EF5DABF47}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\CheckpointController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,129 +94,265 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainGame.uss",
-              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\UI\\MainGame.uss",
-              "RelativeDocumentMoniker": "Assets\\UI\\MainGame.uss",
-              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\UI\\MainGame.uss",
-              "RelativeToolTip": "Assets\\UI\\MainGame.uss",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-22T08:43:18.915Z"
+              "DocumentIndex": 0,
+              "Title": "PlayerHealthController.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PlayerHealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealthController.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PlayerHealthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:20:22.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TMP_PackageResourceImporter.cs",
-              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
-              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@24b10291b18f\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwB0AAADZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T08:03:56.985Z",
+              "WhenOpened": "2025-04-25T16:11:56.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\AudioManager.cs",
-              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\AudioManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
+              "Title": "PauseScreen.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PauseScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseScreen.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PauseScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T07:31:13.04Z"
+              "WhenOpened": "2025-04-25T16:05:29.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Sound.cs",
-              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Sound.cs",
-              "RelativeDocumentMoniker": "Assets\\Sound.cs",
-              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Sound.cs",
-              "RelativeToolTip": "Assets\\Sound.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "VictoryScreen.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\VictoryScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VictoryScreen.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\VictoryScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VictoryScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T07:27:31.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "start-game.uss",
-              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\start-game.uss",
-              "RelativeDocumentMoniker": "Assets\\start-game.uss",
-              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\start-game.uss",
-              "RelativeToolTip": "Assets\\start-game.uss",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-21T21:06:57.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainMenuController.cs",
-              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\MainMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\MainMenuController.cs",
-              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\MainMenuController.cs",
-              "RelativeToolTip": "Assets\\MainMenuController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T20:17:06.583Z",
+              "WhenOpened": "2025-04-25T15:14:04.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "StartScreen.uxml",
-              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\UI\\StartScreen.uxml",
-              "RelativeDocumentMoniker": "Assets\\UI\\StartScreen.uxml",
-              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\UI\\StartScreen.uxml",
-              "RelativeToolTip": "Assets\\UI\\StartScreen.uxml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-03-21T19:04:14.971Z"
+              "Title": "LevelExit.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\LevelExit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelExit.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\LevelExit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelExit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:40:47.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "monsAppear.cs",
-              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\monsAppear.cs",
-              "RelativeDocumentMoniker": "Assets\\monsAppear.cs",
-              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\monsAppear.cs",
-              "RelativeToolTip": "Assets\\monsAppear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T17:57:20.581Z"
+              "WhenOpened": "2025-04-23T09:58:13.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "monster.cs",
-              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\monster.cs",
-              "RelativeDocumentMoniker": "Assets\\monster.cs",
-              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\monster.cs",
-              "RelativeToolTip": "Assets\\monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenuController.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\MainMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T17:43:56.221Z"
+              "WhenOpened": "2025-04-22T12:38:03.689Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletController.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\BulletController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:08:24.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwC4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:20:23.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:10:45.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwCwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:48:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BouncePad.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\BouncePad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BouncePad.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\BouncePad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BouncePad.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:50:20.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PauseMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PauseMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenuController.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PauseMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenuController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:21:30.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TMP_SDF-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-04-25T15:11:36.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckpointController.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\CheckpointController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckpointController.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\CheckpointController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckpointController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:49:48.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:34:55.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "SC_FPSController.cs",
               "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\SC_FPSController.cs",
               "RelativeDocumentMoniker": "Assets\\SC_FPSController.cs",
               "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\SC_FPSController.cs",
               "RelativeToolTip": "Assets\\SC_FPSController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwAwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:09:05.685Z"
+              "WhenOpened": "2025-04-12T08:58:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "gunSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\gunSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\gunSwitch.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\gunSwitch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\gunSwitch.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:05:37.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PickupGun.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PickupGun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickupGun.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PickupGun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickupGun.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:33:38.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:24:35.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MouseMovement.cs",
+              "DocumentMoniker": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\MouseMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseMovement.cs",
+              "ToolTip": "C:\\Users\\63966\\Documents\\2024 Documents\\Unity Projects\\Solvanna-Game\\Assets\\Scripts\\MouseMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:08:53.04Z"
             }
           ]
         }
